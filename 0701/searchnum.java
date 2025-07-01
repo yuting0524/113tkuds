@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Searchnumber{
+public class searchnum{
     public static void main(String[] args){
         int[]s = {1,3,5,7,9,11,13};
         Scanner scanner = new Scanner(System.in);
