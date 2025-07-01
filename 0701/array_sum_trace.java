@@ -10,7 +10,7 @@ public class array_sum_trace {
             System.out.println("加總過程: total = " + previousTotal + " + " + arr[i] + " = " + total);
         }
 
-        // 輸出最終結果
         System.out.println("給予為: " + total);
     }
 }
+//Q1 演算法的時間複雜度為 O(n)，空間複雜度為 O(1)。

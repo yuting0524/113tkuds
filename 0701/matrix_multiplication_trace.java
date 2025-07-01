@@ -24,3 +24,4 @@ public class matrix_multiplication_trace {
         }
     }
 }
+//Q3 演算法的時間複雜度為 O(n³)，空間複雜度為 O(n²)，與題目給定的時間複雜度描述一致。
