@@ -39,6 +39,7 @@ System.out.println();
 System.out.println("操作次數"+ops);
 }
 }
+
 /*
 輸入矩陣大小n(表nxn方陣):
 2
